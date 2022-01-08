@@ -2,4 +2,8 @@ i made you wait?
 
 estaba esperando kakaroto, este momemento... siempre lo espere!
 
+<<<<<<< HEAD
 te amo mi vida, ah no me equivoque
+=======
+asfhaosfhoasfoashfo
+>>>>>>> kakaroto
