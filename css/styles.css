@@ -1,28 +1,18 @@
+
 * {
-    background-color: #777;
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    color: #000;
 }
 
-.div__h1 {
-    background-color: #595;
-    width: 700px;
-    height: 300px;
-    outline: 2px solid #000;
-    margin: 0 auto;
+.god__container {
+    transform:translateY(740px);
 }
 
-.div__h1 h1 {
-    color:#070;
-    font-size: 50px;
-    text-align: center;
-    background-color: #697;
-    outline: 1px solid #000;
+.footer__container {
+    background-color: #000 ;
+    width: 100%;
+    height: 150px;
 }
 
-.div__h1 p {
-    height: 75px;
-    width: 300px;
-    background-color: #079;
-    text-align: center;
-    outline: .5px solid #000;
-    margin: 0 auto;
-}
