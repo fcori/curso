@@ -6,5 +6,28 @@
     color: #000;
 }
 
+.div__h1 {
+    outline: 1px solid #000;
+    height: 300px;
+    width: 350px;
+    background-color: #339;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.div__h1 h1 {
+    padding: 20px 20px;
+    color: #fff;
+}
+
+.div__h1 p {
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+}
+
+
+
+
 
 
